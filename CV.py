@@ -9,18 +9,18 @@ st.header("Formation")
 col1, col2 = st.columns(2)
 with col1:
     st.subheader("Diplomes")
-    st.success("**-Master** en Geographie option Climatologie")
+    st.success("**Master** en Geographie option Climatologie")
     st.write("Université: UCAD")
-    st.success("**-BTS Géomatique** ")
+    st.success("**BTS Géomatique** ")
     st.write("Centre de Formation: CEDT Le G15")
-    st.success("**-Licence en géographie**")
+    st.success("**Licence en géographie**")
     st.write("Université: UCAD")
-    st.success("**-Baccalauréat**")
+    st.success("**Baccalauréat**")
     st.write("Etablissement: Lycée Samba Dione de Gandiaye")
 
 with col2:
     st.subheader("Cértification")
-    st.success("**-Cértificat en Commerce digital**")
+    st.success("**Cértificat en Commerce digital**")
     
     
 st.divider()
