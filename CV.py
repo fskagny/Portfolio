@@ -23,16 +23,7 @@ with col2:
     st.success("**Cértificat en Commerce digital**")
     
     
-st.divider()
-st.header("Activités Extra-Scolaire")
-st.write("""
-* **Coordinateur du mouvement One Family de Ngaraf** """)
-st.write("Un mouvement citoyen, regroupant de jeunes gens (élèves et étudiants) ambitieux et amoureux de la nature, engagés pour servir notre quartier Ngaraf")
 
-st.divider()
-
-st.header("Avis du recruteur")
-st.text_area("Commentaire")
 
 with st.sidebar:
     
